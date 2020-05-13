@@ -1,0 +1,46 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "qué prefieres para toda la familia",
+            "intents": [
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": [
+                        "cancelar"
+                    ]
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": [
+                        "como funciona el juego",
+                        "como funciona",
+                        "tutorial"
+                    ]
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": [
+                        "salir de la skill",
+                        "no más preguntas",
+                        "no quiero más preguntas",
+                        "cancelar juego",
+                        "salir del juego"
+                    ]
+                },
+                {
+                    "name": "play",
+                    "slots": [],
+                    "samples": [
+                        "jugar",
+                        "empezar a jugar"
+                    ]
+                },
+                {
+                    "name": "AMAZON.NavigateHomeIntent",
+                    "samples": []
+                }
+            ],
+            "types": []
+        }
+    }
+}
