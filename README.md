@@ -18,7 +18,7 @@ Skill for alexa, game answer one of the two options offered.
 
 2. Create Lambda -> function and copy 'Lambda/index.js' in your function.
 
-3. Add 'Lambda/frase.json' or create new document in project in lambda and copy file.
+3. Add 'Lambda/index.json' or create new document in project in lambda and copy file.
 
 
 ## Amazon store
